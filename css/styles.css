@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/*navbar*/
+.navbar {
+  padding: 0 20px;
+  /*height: 4rem;*/
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+}
+
+
+.row__feat{
+    margin: 10px;
+}
+/*feat section*/
+
+.container__feat {
+  padding-top: 4rem;
+}
+
+.first-feat {
+  width: 50%;
+  height: 400px;
+
+  border-radius: 20px;
+  background-image: url(/img/ej.jpg);
+  background-size: cover;
+  padding-left: 20px;
+}
+
+.second-feat {
+  width: 50%;
+  height: 400px;
+
+  border-radius: 20px;
+
+  background-image: url(/img/casydoo.jpg);
+  background-size: cover;
+}
